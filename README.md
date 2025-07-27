@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4F46E5&width=400&lines=Robotics;Software+Development;Physical+AI" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4F46E5&width=400&lines=Robotics;Robot+Operating+System+(ROS/ROS2);Artificial+Intellegence" alt="Typing animation"/>
 </p>
 
 ---
@@ -33,6 +33,8 @@
 | Project | Description | Link |
 |---|---|---|
 | **Custom Inverse Kinematics Solver** | Control and simulation of a 4-DOF robotic arm with ROS2 using IK and interactive markers. | [Repo](https://github.com/Abhi-creator1/RobotArm-IKdsolver) |
+| **XY PenPlotter** | Development of an XY penplotter. | [Repo](https://github.com/Abhi-creator1/XY-Penplotter) |
+| **Machine Learning Projects** | Collections of my ML projects | [Repo](https://github.com/Abhi-creator1/MachineLearningProjects) |
 
 ---
 
