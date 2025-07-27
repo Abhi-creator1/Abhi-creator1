@@ -24,6 +24,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="RViz" src="https://img.shields.io/badge/RViz-FF6C37?style=for-the-badge&logo=ros&logoColor=white"/>
   <img alt="MoveIt" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=robotics&logoColor=white"/>
+  <img alt="SLAM" src="https://img.shields.io/badge/SLAM-4C8BF5?style=for-the-badge&logo=robotics&logoColor=white"/>
 </p>
 
 ---
