@@ -1,7 +1,4 @@
 <p align="center">
-  <!-- Banner placeholder - add your banner image here -->
-  <img src="banner.jpeg" alt="Banner" width="600"/>
-</p>
 
 <h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
 
