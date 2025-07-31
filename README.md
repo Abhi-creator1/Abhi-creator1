@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4F46E5&width=400&lines=Robotics;Robot+Operating+System+(ROS/ROS2);Artificial+Intellegence" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=500&color=4F46E5&width=400&lines=Robotics;Robot+Operating+System+(ROS/ROS2);Artificial+Intellegence" alt="Typing animation"/>
 </p>
 
 ---
