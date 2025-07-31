@@ -1,9 +1,10 @@
 <p align="center">
-
-<h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
+  <h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
+  <h3 align="center">Robotics Engineer | ROS2 Developer | AI Enthusiast</h3>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=500&color=4F46E5&width=400&lines=Robotics;Robot+Operating+System+(ROS/ROS2);Artificial+Intellegence" alt="Typing animation"/>
+  Passionate about building intelligent robotic systems with ROS2, MoveIt, and AI. Currently exploring physical AI and real-world robot autonomy.
 </p>
 
 ---
