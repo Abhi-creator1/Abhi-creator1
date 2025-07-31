@@ -3,8 +3,12 @@
   <h3 align="center">Robotics Engineer | ROS2 Developer | AI Enthusiast</h3>
 </p>
 
+<p align="center"><i>Building intelligent robots that sense, plan, and act.</i></p>
+
 <p align="center">
-  Passionate about building intelligent robotic systems with ROS2, MoveIt, and AI. Currently exploring physical AI and real-world robot autonomy.
+  I'm a robotics engineer focused on real-world applications of ROS2, AI, and embedded systems.  
+  From SLAM implementation on quadrupeds to enabling natural language interfaces on industrial arms,  
+  I build intelligent systems that bring autonomy to life. Currently pursuing my Master's at Hochschule Schmalkalden.
 </p>
 
 ---
