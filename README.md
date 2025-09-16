@@ -19,20 +19,32 @@
 ---
 
 ### 🛠 Skills & Tools  
-<p align="center">
-  <img alt="Robotics" src="https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=Robotics&logoColor=white"/>
-  <img alt="ROS2" src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="SLAM" src="https://img.shields.io/badge/SLAM-FF6C37?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img alt="AI" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=robotics&logoColor=white"/>
-  <img alt="Embedded System" src="https://img.shields.io/badge/SLAM-FF6C37?style=for-the-badge&logo=ros&logoColor=white"/>
-</p>
-
 <p align="center"> <!-- Core Robotics --> <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-0A0FF9?style=for-the-badge&logo=ros&logoColor=white"/>[1] <img alt="MoveIt" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=ros&logoColor=white"/>[1] <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-F9A03C?style=for-the-badge&logo=ros&logoColor=white"/>[1] <img alt="PX4" src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white"/>[2] <!-- Languages & Build -->
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+
+<!-- DevOps & Containers -->
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<!-- Perception & SLAM -->
+<img alt="SLAM" src="https://img.shields.io/badge/SLAM-8E44AD?style=for-the-badge&logo=semantic-release&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="PCL" src="https://img.shields.io/badge/PCL-1E88E5?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<!-- Embedded & Fieldbus -->
+<img alt="Embedded Systems" src="https://img.shields.io/badge/Embedded-2ECC71?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img alt="CAN bus" src="https://img.shields.io/badge/CAN%20bus-FF6C37?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<!-- Visualization & Sim -->
+<img alt="RViz" src="https://img.shields.io/badge/RViz-6C63FF?style=for-the-badge&logo=ros&logoColor=white"/>
+<img alt="gz sim" src="https://img.shields.io/badge/gz%20sim-F3BA2F?style=for-the-badge&logo=ros&logoColor=white"/>
+<img alt="UR5e" src="https://img.shields.io/badge/UR5e-0097A7?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+
+</p>[1]
 
 ---
 
