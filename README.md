@@ -65,10 +65,4 @@
 
 ---
 
-### 💼 Looking for Thesis, Internship & Job Opportunities in Robotics & Automation  
-
-If you’re interested in my work or collaboration, feel free to reach out!
-
----
-
 <!-- Add your banner image later in the `assets/banner.svg` path -->
