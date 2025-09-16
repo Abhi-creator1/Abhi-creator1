@@ -20,7 +20,7 @@
 
 ### 🛠 Skills & Tools  
 <p align="center">
-  <img alt="Robotics" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Robotics" src="https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=Robotics&logoColor=white"/>
   <img alt="ROS2" src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
