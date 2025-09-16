@@ -29,7 +29,13 @@
   <img alt="Embedded System" src="https://img.shields.io/badge/SLAM-FF6C37?style=for-the-badge&logo=ros&logoColor=white"/>
 </p>
 
+<p align="center"> <!-- Core Robotics --> <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-0A0FF9?style=for-the-badge&logo=ros&logoColor=white"/>[1] <img alt="MoveIt" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=ros&logoColor=white"/>[1] <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-F9A03C?style=for-the-badge&logo=ros&logoColor=white"/>[1] <img alt="PX4" src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white"/>[2] <!-- Languages & Build -->
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+
 ---
+
 
 ### 🚀 Featured Projects
 
