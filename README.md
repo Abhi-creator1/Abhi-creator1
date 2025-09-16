@@ -59,13 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-creator1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📬 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/abhishek-thakur85/)  
 - [Email](mailto:abhisheksthakur85@gmail.com)  
