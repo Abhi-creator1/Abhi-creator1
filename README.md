@@ -20,12 +20,13 @@
 
 ### 🛠 Skills & Tools  
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Robotics" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="ROS2" src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="SLAM" src="https://img.shields.io/badge/SLAM-FF6C37?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img alt="MoveIt" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=robotics&logoColor=white"/>
+  <img alt="AI" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=robotics&logoColor=white"/>
+  <img alt="Embedded System" src="https://img.shields.io/badge/SLAM-FF6C37?style=for-the-badge&logo=ros&logoColor=white"/>
 </p>
 
 ---
