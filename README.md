@@ -53,6 +53,7 @@
 |---|---|---|
 | **NLP/LLM Control for Universal Robotics-UR5E Robot**| Development of AI agent for NLP based control of ur5e robot. | [Repo](https://github.com/Abhi-creator1/ur5e_ai_agent) |
 | **Custom Inverse Kinematics Solver** | Control and simulation of a 4-DOF robotic arm with ROS2 using IK and interactive markers. | [Repo](https://github.com/Abhi-creator1/RobotArm-IKdsolver) |
+| **PX4 Drone Development** | Development of FSM for PX4 drone in Gazebo simulation using RUST as programming Language. | [Repo](https://github.com/Abhi-creator1/PX4_Drone_Development) |
 | **XY PenPlotter** | Development of an XY penplotter. | [Repo](https://github.com/Abhi-creator1/XY-Penplotter) |
 | **Machine Learning Projects** | Collections of my ML projects | [Repo](https://github.com/Abhi-creator1/MachineLearningProjects) |
 
