@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
-  <h3 align="center">Robotics Engineer | ROS2 Developer | AI Enthusiast</h3>
+  <h3 align="center">Robotics Engineer</h3>
 </p>
 
 <p align="center"><i>Building intelligent robots that sense, plan, and act.</i></p>
