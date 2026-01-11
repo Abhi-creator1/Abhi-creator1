@@ -40,6 +40,5 @@
 <img alt="CAN bus" src="https://img.shields.io/badge/CAN%20bus-FF6C37?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <!-- Visualization & Sim -->
-<img alt="RViz" src="https://img.shields.io/badge/RViz-6C63FF?style=for-the-badge&logo=ros&logoColor=white"/>
 
 </p>
