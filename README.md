@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">Hi, I'm Abhishek Thakur 👋</h1>
-  <h3 align="center">Robotics Engineer</h3>
 </p>
 
 <p align="center"><i>Building intelligent robots that sense, plan, and act.</i></p>
@@ -27,7 +26,6 @@
 <!-- DevOps & Containers -->
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 <!-- Perception & SLAM -->
 <img alt="SLAM" src="https://img.shields.io/badge/SLAM-8E44AD?style=for-the-badge&logo=semantic-release&logoColor=white"/>
@@ -36,8 +34,7 @@
 
 <!-- Embedded & Fieldbus -->
 <img alt="Embedded Systems" src="https://img.shields.io/badge/Embedded-2ECC71?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img alt="CAN bus" src="https://img.shields.io/badge/CAN%20bus-FF6C37?style=for-the-badge&logo=cisco&logoColor=white"/>
+
 
 <!-- Visualization & Sim -->
 
