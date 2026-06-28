@@ -4,38 +4,3 @@
 
 <p align="center"><i>Building intelligent robots that sense, plan, and act.</i></p>
 
-<p align="center">
-  I'm a robotics engineer focused on real-world applications of ROS2, AI, and embedded systems.  
-  From SLAM implementation on quadrupeds to enabling natural language interfaces on industrial arms,  
-  I build intelligent systems that bring autonomy to life. Currently pursuing my Master's at Hochschule Schmalkalden.
-</p>
-
----
-
-### 📄 Download my CV  
-[Download CV](Abhishek_Thakur_CV.pdf) (PDF)
-
----
-
-### 🛠 Skills & Tools  
-<p align="center"> <!-- Core Robotics --> <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-0A0FF9?style=for-the-badge&logo=ros&logoColor=white"/> <img alt="MoveIt" src="https://img.shields.io/badge/MoveIt-4C8BF5?style=for-the-badge&logo=ros&logoColor=white"/> <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-F9A03C?style=for-the-badge&logo=ros&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-
-<!-- DevOps & Containers -->
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<!-- Perception & SLAM -->
-<img alt="SLAM" src="https://img.shields.io/badge/SLAM-8E44AD?style=for-the-badge&logo=semantic-release&logoColor=white"/>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img alt="PCL" src="https://img.shields.io/badge/PCL-1E88E5?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<!-- Embedded & Fieldbus -->
-<img alt="Embedded Systems" src="https://img.shields.io/badge/Embedded-2ECC71?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-
-<!-- Visualization & Sim -->
-
-</p>
